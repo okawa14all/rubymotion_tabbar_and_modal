@@ -1,0 +1,12 @@
+PODS:
+  - FontAwesomeKit/Core (2.1.7)
+  - FontAwesomeKit/IonIcons (2.1.7):
+    - FontAwesomeKit/Core
+
+DEPENDENCIES:
+  - FontAwesomeKit/IonIcons
+
+SPEC CHECKSUMS:
+  FontAwesomeKit: af6eef70d23986349284d2feb4e959459621587d
+
+COCOAPODS: 0.33.1
